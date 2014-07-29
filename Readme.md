@@ -1,1 +1,1 @@
-![test img](http://6581fd56.ngrok.com/status/badge/818c5c0430b78eaff059ee5eff7eecdc/asdf)
+![test img](https://ci.flightcar.com:8082/status/badge/68747470733a2f2f6769746875622e636f6d2f666c696768746361722f666c69676874636172/staging)
